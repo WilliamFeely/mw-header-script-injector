@@ -1,4 +1,4 @@
-<?php
+<?php /* created by Evgeny Fadeev evgeny.fadeev@gmail.com https://www.mediawiki.org/wiki/Extension:HeaderScriptInjector  */
 if (!defined('MEDIAWIKI')){
 	die();
 }
